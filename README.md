@@ -67,7 +67,7 @@ Aplicação desenvolvida usando as seguintes tecnologias:
 
 ## 🚀 Iniciar Aplicação
 
->Clone o projeto e acesse a pasta.
+### **Clone o projeto e acesse a pasta.**
 
 ```bash
 $ git clone https://github.com/felipe-gomes-vicente/reactjs-criando-um-projeto-do-zero.git
@@ -76,7 +76,7 @@ $ cd reactjs-criando-um-projeto-do-zero
 ___
 
 
-> Instalar dependências e iniciar projeto
+### **Instalar dependências e iniciar projeto**
 
 ```bash
 $ yarn
@@ -85,20 +85,23 @@ $ yarn dev
 ___
 
 
-> Iniciar Tests unitarios
+### **Iniciar Tests unitarios**
 
 ```bash
 $ yarn test
 ```
 ___
 
+&nbsp;
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
+&nbsp;
 
----
+Feito com 💜 by Felipe Vicente👋
 
-<p align="center">Feito com 💜 by Felipe Vicente👋</p>
+&nbsp;
 
-- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
+## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
