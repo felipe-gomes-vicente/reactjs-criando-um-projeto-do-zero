@@ -1,7 +1,7 @@
 # Criando Um Projeto do zero com Reactjs
 
 <h1 align="center">
-    <img alt="Gif do projeto em reactjs" title="gif projeto" src="" />
+    <img alt="Gif do projeto em reactjs" title="gif projeto" src="./public/images/projeto-reactjs.gif" />
 </h1>
 
 <br>
@@ -11,7 +11,8 @@
 Essa será uma aplicação onde o principal objetivo é criar um blog do zero. Receber
 uma aplicação praticamente em branco que e consumir os dados do Prismic é uma
 Headless CMS para gerar documentos repetíveis (post) que vão retornar alguns dados
- para a aplicação e ter a interface implementada conforme o layout do Figma.
+para a aplicação e ter a interface implementada conforme o layout do Figma e
+desafio um do capítulo 3 do bootcamp.
 
 O que foi feito:
 - Estilizações global, comun e individuais;
